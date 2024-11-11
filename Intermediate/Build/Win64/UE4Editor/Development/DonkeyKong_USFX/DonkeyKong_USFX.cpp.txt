@@ -1,0 +1,2 @@
+C:\Users\joelp\OneDrive\Documentos\PATRONES\ADAPTER\Intermediate\Build\Win64\UE4Editor\Development\DonkeyKong_USFX\Definitions.DonkeyKong_USFX.h
+C:\Users\joelp\OneDrive\Documentos\PATRONES\ADAPTER\Source\DonkeyKong_USFX\DonkeyKong_USFX.h
